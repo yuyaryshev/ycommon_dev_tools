@@ -67,7 +67,7 @@
         "nodemon:backend": "nodemon -w ./lib/cjs/server ./lib/cjs/server/start.js"
     },
     "devDependencies": {
-        "json5": "^2.2.0",
+        "json5": "^2.2.2",
         "@babel/cli": "7.15.7",
         "@babel/core": "7.15.8",
         "@babel/node": "^7.15.8",
